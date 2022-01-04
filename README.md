@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://blogu-nextjs.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-6dd069?style=for-the-badge&logo=About.me&logoColor=00A98F"/></a>
+<a href="mailto:jake.lee4006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jake.lee4006@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>
+<a href="https://leejiyeolresume.notion.site/9da92caca3fa4a26b412bf24a16fb24a" target="_blank"><img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 
 <!--
 **highspirit7/highspirit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
