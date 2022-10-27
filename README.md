@@ -7,7 +7,7 @@ I am a **junior web frontend developer** who experienced React.js and Vue.js.
 <a href="https://leejiyeolresume.notion.site/9da92caca3fa4a26b412bf24a16fb24a" target="_blank"><img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 
 
-![highspirit7's GitHub stats](https://github-readme-stats.vercel.app/api?username=highspirit7&show_icons=true&theme=vue)
+![highspirit7's GitHub stats](https://github-readme-stats.vercel.app/api?username=highspirit7&show_icons=true&theme=vue&count_private=true)
 <!--
 **highspirit7/highspirit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
