@@ -1,13 +1,18 @@
-Hello World 👋🏼  
+Hello World, Hallo, 안녕하세요, Bonjour 👋🏼  
 
-I am a **junior web frontend developer** who experienced React.js and Vue.js.      
+I began my coding journey in my 30s,    
+and I’m someone who focuses on personal growth by comparing myself to who I was yesterday, rather than to others.   
+While coding is my profession, I am also interested in health, the environment, and history.       
+Currently, I work as a web developer in Ulsan, South Korea.     
 
-<a href="https://blogu-nextjs.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-6dd069?style=for-the-badge&logo=About.me&logoColor=00A98F"/></a>
+<a href="https://blogu-next.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-059669?style=for-the-badge"/></a>
 <a href="mailto:jake.lee4006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jake.lee4006@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>
-<!-- <a href="https://leejiyeolresume.notion.site/9da92caca3fa4a26b412bf24a16fb24a" target="_blank"><img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a> -->
+<a href="https://www.linkedin.com/in/jiyeol-lee-614b9585/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"/></a>
 
 
-![highspirit7's GitHub stats](https://github-readme-stats.vercel.app/api?username=highspirit7&show_icons=true&theme=vue&count_private=true)
+![highspirit7's GitHub stats](https://github-readme-stats.vercel.app/api?username=highspirit7&rank_icon=github&show_icons=true&hide=stars&theme=vue&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=highspirit7&layout=compact)
+
 <!--
 **highspirit7/highspirit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
