@@ -1,4 +1,4 @@
-Hello World, Hallo, 안녕하세요, Bonjour 👋🏼  
+Hello World 👋🏼  
 
 I began my coding journey in my 30s,    
 and I’m someone who focuses on personal growth by comparing myself to who I was yesterday, rather than to others.   
