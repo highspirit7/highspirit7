@@ -10,9 +10,6 @@ Currently, I work as a web developer in Ulsan, South Korea.
 <a href="https://www.linkedin.com/in/jiyeol-lee-614b9585/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"/></a>
 
 
-![highspirit7's GitHub stats](https://github-readme-stats.vercel.app/api?username=highspirit7&rank_icon=github&show_icons=true&hide=stars&theme=vue&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=highspirit7&layout=compact)
-
 <!--
 **highspirit7/highspirit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
